@@ -45,7 +45,7 @@ def play():
     # Show current score
     print(f"Wins: {score['wins']} Ties: {score['ties']} Losses: {score['losses']}\n")
     
-    time.sleep(1)  # Pause for 1 second to improve UX before the next round
+    time.sleep(1)  # Pause for 1 second to improve UX before the next rounds
 
 # Main function to start the game
 def main():
